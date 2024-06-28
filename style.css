@@ -1,0 +1,103 @@
+.signIn_Box{
+    width: 350px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 10px rgb(225, 249, 7);
+    font-weight: bold;
+    backdrop-filter: blur(10px);
+    
+}
+
+.signIn_Body{
+    background-image: url("wp5089912.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+
+    height: 98vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0%;
+    font-weight: bold;
+
+    
+}
+
+.signUp_Box{
+    width: 550px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 10px rgb(225, 249, 7);
+    backdrop-filter: blur(10px);
+    
+}
+
+.signUp_Body{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signinboody{
+    background-image: url("wp5089912.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    
+    
+}
+
+.adminlogin{
+    background-image: url("wp5089912.webp");
+    width: 550px;
+    padding: 20px;
+    border-radius: 5px;
+    background-color: calc();
+    box-shadow: 0px 0px 10px 10px rgb(94, 72, 217);
+    font-weight: bold;
+    color: blanchedalmond;
+}
+
+.adminh1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.adminBody{
+    background-image: url("wp5089912.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+    
+    
+    
+
+}
+
+.arb{
+    background-image: url("wp5089912.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    
+    align-items: center;
+}
+.blue_Box{
+   
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px 10px rgb(225, 249, 7);
+    font-weight: bold;
+    backdrop-filter: blur(10px);
+    
+}
